@@ -6,6 +6,6 @@ const multiply = var1 * var2;
 
 const random = Math.random();
 
-const mod = 10 % 3;
+const mod = 18 % 7;
 
 const max = Math.max(2,5,10,15,20);
